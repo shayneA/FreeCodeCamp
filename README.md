@@ -1,4 +1,4 @@
 # FreeCodeCamp
  Soulution and notes
 
-I Use Typora as Markdown to for notes.md
+I Use Typora as Markdown for notes.md
